@@ -65,7 +65,7 @@ ORDER: Base + Typography > Generar Layout + Grid > Page Layout > Components
   @supports (-webkit-background-clip: text) or (background-clip: text) {
     background-image: linear-gradient(
       135deg,
-      $primary-color 0%,
+      rgb(141, 182, 196) 0%,
       $secondary-color 100%
     );
     -webkit-background-clip: text;

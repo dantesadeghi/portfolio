@@ -7,6 +7,55 @@ html {
 }
 
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Inter Tight", sans-serif;
   text-align: center;
 }
+
+img {
+  border-radius: 3px;
+}
+
+img.shadow-lg { // Making my profile picture a circle
+  border-radius: 150px;
+}
+
+.darkmode-layer, .darkmode-toggle {
+  z-index: 100;
+}
+
+.darkmode-toggle {
+  scale: 2;
+  color: white;
+  font-size: 150%;
+}
+
+.darkmode-toggle:hover {
+  scale: 2.05;
+  box-shadow: 3px 4px 4px rgb(116, 116, 116);
+}
+
+// .darkmode--activated .about-wrapper__image, .darkmode--activated .thumbnail { // Making it so that darkmode does not invert my images.
+//   filter: invert(100%);
+// }
+
+.darkmode--activated img { // Making it so that darkmode does not invert my images. V2
+  filter: invert(100%);
+}
+
+
+// .img-fluid {
+//   filter: grayscale(1);
+// }
+
+// .img-fluid:hover {
+//   filter: grayscale(0);
+// }
+
+// .darkmode--activated .img-fluid {
+//   filter: grayscale(1);
+// }
+
+// .darkmode--activated .img-fluid:hover {
+//   filter: grayscale(0);
+//   filter: invert(100%);
+// }

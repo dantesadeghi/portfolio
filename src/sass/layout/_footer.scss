@@ -1,20 +1,20 @@
 .footer {
   background-color: $dark-grey;
   color: $white-color;
-  padding: 4.8rem 0;
+  padding: 2rem 0;
 
   @include respond(phone) {
     border: 0px;
   }
 
   &__text {
-    color: darken($white-color, 50%);
+    color: darken($white-color, 70%);
     font-size: 1.3rem;
 
     a {
-      color: darken($white-color, 50%);
+      color: darken($white-color, 70%);
       font-size: 1.3rem;
-      transition: all 0.4s;
+      transition: all 0.3s;
       display: inline-block;
       background-color: $dark-grey;
 
@@ -31,7 +31,7 @@
     margin: 1rem auto;
     border: 0;
     width: 50%;
-    border-top: 2px solid grey;
+    border-top: 2px solid rgb(83, 83, 83);
   }
 }
 
@@ -58,7 +58,7 @@
 }
 
 .back-to-top i {
-  color: $white-color;
+  color: gray;
   margin: 1rem 0 $default-font-size;
   transition: all 0.2s ease-in;
 
