@@ -12,10 +12,10 @@ My simple portfolio, which features links to my resume, my recent projects, and 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3a029bfd-575c-41e5-8249-c864d482c2e5/deploy-status)](https://app.netlify.com/sites/the-simplefolio/deploys)
 
-## License 📄
+## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments 🎁
+## Acknowledgments
 
 This portfolio was created using a template created by **Jacobo Martinez** - [https://github.com/cobiwave](https://github.com/cobiwave)
