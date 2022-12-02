@@ -1,6 +1,6 @@
 My simple portfolio, which features links to my resume, my recent projects, and my medias. 
 
-## Technologies used 🛠️
+## Technologies used
 
 - [Parcel](https://parceljs.org/) - Bundler
 - [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Frontend component library
