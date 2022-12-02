@@ -1,3 +1,5 @@
+My simple portfolio, which features links to my resume, my recent projects, and my medias. 
+
 ## Technologies used 🛠️
 
 - [Parcel](https://parceljs.org/) - Bundler
@@ -5,10 +7,6 @@
 - [Sass](https://sass-lang.com/documentation) - CSS extension language
 - [ScrollReveal.js](https://scrollrevealjs.org/) - JavaScript library
 - [Tilt.js](https://gijsroge.github.io/tilt.js/) - JavaScript tiny parallax library
-
-## Authors
-
-- **Jacobo Martinez** - [https://github.com/cobiwave](https://github.com/cobiwave)
 
 ## Status
 
@@ -20,4 +18,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments 🎁
 
-I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
+This portfolio was created using a template created by **Jacobo Martinez** - [https://github.com/cobiwave](https://github.com/cobiwave)
